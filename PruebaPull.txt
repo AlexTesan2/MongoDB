@@ -1,0 +1,1 @@
+La finalidad de este archivo es practicar el git pull.
